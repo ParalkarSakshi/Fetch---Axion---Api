@@ -1,7 +1,7 @@
 import './App.css';
 import Covid19 from './Components/Covid19';
 import Form from './Components/Form';
-import Moive from './Components/Moive';
+import Movie from './Components/Movie';
 import Nasa from './Components/Nasa';
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
 
         {/* <Nasa /> */}
 
-        <Moive />
+        <Movie />
 
          {/* <Covid19 />  */}
 
